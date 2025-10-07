@@ -15,5 +15,5 @@
 - [PlaylistMaker](https://github.com/hismram/PlaylistMaker) — Краткое описание.
 
 ## 📫 Как связаться со мной  
-- Telegram: [@ваш_ник](https://t.me/hismram)  
-- LinkedIn: [Ваше имя](https://linkedin.com/in/ваш-профиль)  
+- Telegram: [@hismram](https://t.me/hismram)  
+- LinkedIn: [Ваше имя](https://mailto:hismram@gmail.com)  
