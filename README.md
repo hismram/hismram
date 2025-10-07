@@ -11,8 +11,5 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=logo=typescript&logoColor=black)
 
-## 🔥 Мои ключевые проекты  
-- [PlaylistMaker](https://github.com/hismram/PlaylistMaker) — Краткое описание.
-
 ## 📫 Как связаться со мной  
 - Telegram: [@hismram](https://t.me/hismram)
