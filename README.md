@@ -1,14 +1,129 @@
-# Привет! 👋 Меня зовут Рамиль
+# Привет, я Хисматуллин Рамиль 👋
 
-Я Frontend-разработчик  
+### Senior Frontend Developer / Team Lead
 
-## 🛠 Мой стек технологий  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=logo=openjdk&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=logo=typescript&logoColor=black)
+> Проектирую и разрабатываю сложные B2B-интерфейсы.
+> Специализируюсь на архитектуре фронтенда (Clean Architecture, FSD) и оптимизации производительности.
 
-## 📫 Как связаться со мной  
-- Telegram: [@hismram](https://t.me/hismram)
+---
+
+## 👤 Обо мне
+
+- 🏢 Senior Frontend Developer
+- 🏗 Проектирую архитектуру фронтенда для B2B-продуктов: биллинг, лицензирование, бухгалтерский аутсорсинг, агентская сеть
+- 👥 Ревью всего интерфейсного кода
+- ⚡ Оптимизирую производительность: SSR, мемоизация, код-сплиттинг, bundle analysis
+- 🧩 Периодически работаю с бэкендом (Python, PostgreSQL, Java, Kotlin)
+
+---
+
+## 📫 Контакты
+
+| | |
+|---|---|
+| **Город** | Уфа |
+| **Telegram** | @hismram |
+
+---
+
+## 🛠 Технический стек
+
+### Глубокое владение
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+
+<details>
+<summary>Подробная таблица технологий</summary>
+
+| Категория | Технологии |
+|---|---|
+| **Языки** | TypeScript, JavaScript |
+| **Фреймворки** | React (классовые и функциональные компоненты) |
+| **Хуки** | useState, useEffect, useMemo, useCallback |
+| **Стилизация** | CSS, Tailwind CSS |
+| **Сборщики** | Webpack |
+| **Архитектура** | Clean Architecture, Feature-Sliced Design (FSD) |
+| **Производительность** | Мемоизация, lazy loading, профилирование, bundle analysis, SSR |
+| **Инструменты** | WebSocket, Drag & Drop, итеративная загрузка |
+
+</details>
+
+### Базовое владение (чтение, правки, несложные задачи)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+<details>
+<summary>Подробная таблица технологий</summary>
+
+| Категория | Технологии |
+|---|---|
+| **Бэкенд-языки** | Python, Java, Kotlin |
+| **Базы данных** | PostgreSQL (простые запросы с JOIN, индексы) |
+
+</details>
+
+---
+
+## 💼 Опыт работы
+
+### Тензор (продукт Saby, экс-СБИС) — **13 лет**
+*Senior Frontend Developer / Team Lead* | 2011 – н.в.
+
+**Ключевые обязанности:**
+- Разработка и архитектура фронтенда для B2B-продуктов (биллинг, лицензирование, бухгалтерский аутсорсинг, агентская сеть)
+- Декомпозиция интерфейсов по методологии Clean Architecture и Feature-Sliced Design (FSD)
+- Ревью всего интерфейсного кода
+- Принятие архитектурных решений
+- Периодическая работа с бэкендом (Python, PostgreSQL, Java, Kotlin)
+
+---
+
+## 🚀 Ключевые проекты и достижения
+
+### 1. Система «Обслуживающая бухгалтерия» (аутсорсная бухгалтерия)
+*Роль: ведущий frontend-разработчик, архитектор интерфейса*
+
+- Спроектировал и реализовал **карточку договора** с полным жизненным циклом: приглашение клиента → принятие → обслуживание → расторжение. Двустороннее взаимодействие (вендор ↔ клиент) с разграничением прав.
+- Реализовал **реестр бухгалтеров** с управлением доступом в кабинет клиента (добавление, удаление, блокировка).
+- Внедрил **реактивное обновление интерфейса через WebSocket** по серверным событиям.
+- Разработал **реестр договоров** со сложной фильтрацией (по статусам, организации, ответственному, бухгалтеру, пометкам, периоду), итеративной загрузкой, сортировкой (включая пользовательский порядок через Drag & Drop) и массовыми операциями.
+
+### 2. Оптимизация производительности раздела бухобслуживания
+*Роль: архитектор, ведущий разработчик*
+
+- Провёл полную переработку библиотек: упаковка по Clean Architecture и FSD, перевод всех компонентов на React.
+- Реализовал **серверный рендеринг (SSR)** для ключевых страниц.
+- **Результат:** прирост скорости загрузки **~250%**, снижение объёма трафика **на 50%**.
+
+### 3. Обновление инструментария контроля лицензий
+*Роль: системный аналитик, архитектор, ведущий разработчик*
+
+- Прорабатывал ТЗ и декомпозировал интерфейс по Clean Architecture и FSD.
+- Спроектировал и реализовал страницу **Master-Detail** с иерархической разбивкой лицензий по направлениям и компонентам.
+- Разработал **универсальные табличные шаблоны рендера** (лицензия, направление, компонент, группа удорожания), которые впоследствии были переиспользованы во многих других реестрах продукта.
+
+### 4. Миграция кодовой базы с JavaScript на TypeScript
+*Роль: инициатор и исполнитель*
+
+- Провёл поэтапную миграцию легаси-кода с JavaScript на TypeScript в рамках отдела.
+- Внедрил использование дженериков для типизации ключевых абстракций.
+
+---
+
+## 📊 Ключевые компетенции
+
+- **Архитектура фронтенда:** декомпозиция сложных B2B-интерфейсов, проектирование библиотек и модулей, Clean Architecture, FSD
+- **Оптимизация производительности:** профилирование, мемоизация, код-сплиттинг, SSR, bundle analysis
+- **Управление командой:** менторинг, ревью кода, планирование работ
+- **Полный цикл разработки:** от проработки ТЗ до внедрения и поддержки
+- **Кросс-функциональность:** способность работать с бэкендом при необходимости
+
+---
+
