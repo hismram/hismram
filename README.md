@@ -1,7 +1,6 @@
 # Привет! 👋 Меня зовут Рамиль
 
 Я Frontend-разработчик  
-Занимаюсь разработкой веб-приложений 
 
 ## 🛠 Мой стек технологий  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
